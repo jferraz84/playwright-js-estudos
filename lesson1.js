@@ -36,3 +36,4 @@ console.log("Sou estudante? " + isStudent);
 console.log("Sou casado? " + isMarried);
 console.log("Anos de casamento: " + yearsInMarriage);
 console.log("Número de carros: " + numberOfCars);       
+console.log("------------------------------");
